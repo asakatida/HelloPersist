@@ -3,7 +3,7 @@ attrs==18.2.0
 black==18.6b4
 click==6.7
 colorama==0.3.9
-Django==2.1.1
+Django==2.1.2
 djangorestframework==3.8.2
 flake8==3.5.0
 flake8-polyfill==1.0.2
