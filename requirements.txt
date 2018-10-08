@@ -11,7 +11,7 @@ future==0.16.0
 jedi==0.12.1
 mando==0.6.4
 mccabe==0.6.1
-mypy==0.620
+mypy==0.630
 parso==0.3.1
 pluggy==0.7.1
 psycopg2==2.7.5
