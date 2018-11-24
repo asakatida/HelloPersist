@@ -19,7 +19,7 @@ pycodestyle==2.4.0
 pydocstyle==3.0.0
 pyflakes==2.0.0
 python-jsonrpc-server==0.0.2
-python-language-server==0.21.2
+python-language-server==0.21.3
 pytz==2018.7
 radon==2.4.0
 six==1.11.0
