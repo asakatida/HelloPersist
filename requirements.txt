@@ -22,7 +22,7 @@ python-jsonrpc-server==0.0.2
 python-language-server==0.21.4
 pytz==2018.7
 radon==2.4.0
-six==1.11.0
+six==1.12.0
 snowballstemmer==1.2.1
 toml==0.10.0
 typed-ast==1.1.0
