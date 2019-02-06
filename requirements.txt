@@ -12,7 +12,7 @@ jedi==0.13.2
 mando==0.6.4
 mccabe==0.6.1
 mypy==0.660
-parso==0.3.2
+parso==0.3.3
 pluggy==0.8.1
 psycopg2==2.7.7
 pycodestyle==2.5.0
