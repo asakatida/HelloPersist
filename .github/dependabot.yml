@@ -1,0 +1,31 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "13:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: flake8
+    versions:
+    - 3.8.4
+    - 3.9.0
+  - dependency-name: mypy
+    versions:
+    - "0.800"
+  - dependency-name: pytz
+    versions:
+    - "2020.5"
+  - dependency-name: parso
+    versions:
+    - 0.8.1
+  - dependency-name: djangorestframework
+    versions:
+    - 3.12.2
+  - dependency-name: pydocstyle
+    versions:
+    - 5.1.1
+  - dependency-name: django
+    versions:
+    - 2.2.13
