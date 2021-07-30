@@ -2,7 +2,7 @@ appdirs==1.4.3
 attrs==19.1.0
 black==19.3b0
 click==7.0
-colorama==0.4.1
+colorama==0.4.4
 Django==3.2.5
 djangorestframework==3.12.4
 flake8==3.7.7
