@@ -7,7 +7,7 @@ Django==3.2.10
 djangorestframework==3.13.1
 flake8==3.7.7
 flake8-polyfill==1.0.2
-future==0.17.1
+future==0.18.2
 jedi==0.18.1
 mando==0.6.4
 mccabe==0.6.1
