@@ -20,7 +20,7 @@ pydocstyle==3.0.0
 pyflakes==2.4.0
 python-jsonrpc-server==0.4.0
 python-language-server==0.36.2
-pytz==2021.3
+pytz==2022.1
 radon==5.1.0
 six==1.16.0
 snowballstemmer==1.9.0
