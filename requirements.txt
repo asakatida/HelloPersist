@@ -25,5 +25,5 @@ radon==5.1.0
 six==1.16.0
 snowballstemmer==1.9.0
 toml==0.10.2
-typed-ast==1.4.0
+typed-ast==1.5.4
 typeshed==0.0.1
