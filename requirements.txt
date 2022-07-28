@@ -1,5 +1,5 @@
 appdirs==1.4.3
-attrs==21.4.0
+attrs==22.1.0
 black==21.12b0
 click==7.0
 colorama==0.4.1
